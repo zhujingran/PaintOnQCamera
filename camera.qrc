@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/shutter.svg</file>
+        <file>images/face_detect_bg.png</file>
+    </qresource>
+</RCC>
